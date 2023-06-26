@@ -1,0 +1,15 @@
+.footer{
+    background-color: #FFF9EE;
+    padding-bottom: 30px;
+}
+
+.header{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #1E1E1E;
+}
+
+.row img{
+    margin-right: 10px;
+}
